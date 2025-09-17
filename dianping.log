@@ -1,0 +1,13 @@
+2025-09-17 01:09:19,175 - 25212-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:09:31,836 - 25365-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:10:52,218 - 25603-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:11:09,765 - 25740-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:12:30,720 - 25911-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 01:18:30,196 - 31934-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:19:34,629 - 32545-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-09-17 01:20:06,796 - 32681-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 01:20:48,666 - 32921-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 11:18:49,914 - 89343-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 11:28:14,833 - 90418-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 11:32:49,443 - 90827-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-09-17 11:36:07,627 - 91078-MainThread - /Users/hal/Documents/GitHub/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证

@@ -187,7 +187,7 @@ class RequestsUtils():
             一定程度上丧失了cookie池的意义，如果不处理，失效的太快。
             暂时处理
             """
-            if request_type is not 'proxy, no cookie' or not spider_config.USE_PROXY:
+            if request_type != 'proxy, no cookie' or not spider_config.USE_PROXY:
                 print('处理验证码，按任意键回车后继续', r.url)
                 input()
             else:
